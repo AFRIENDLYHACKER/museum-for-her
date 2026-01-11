@@ -1,8 +1,0 @@
-Meshes:
-mesh
-mesh-1
-Textures:
-Art room01_Art_Room1_BaseColor.png
-Art room01_Art_Room1_Metallic-Art room01_Art_Room1_Roughness.png
-Art room01_Art_Room1_Normal.png
-Art room01_Art_Room1_Emissive.png
